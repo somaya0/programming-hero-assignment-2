@@ -1,0 +1,30 @@
+
+.main4
+{
+    height: 1100px;
+    width: 1200px;
+}
+
+
+.main1 #bottom-right
+{
+    position: absolute;
+    bottom: 26%;
+    left: 8%;
+}
+
+.bottom_right img
+{
+    height: 1100px;
+    margin-top: -120%;
+    margin-left: 20%;
+}
+
+.main5
+{
+    margin-top: -20px;
+}
+
+
+
+
